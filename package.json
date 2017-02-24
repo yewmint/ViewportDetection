@@ -1,0 +1,18 @@
+{
+  "name": "raycast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.3",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
